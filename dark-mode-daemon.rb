@@ -1,6 +1,7 @@
 class DarkModeDaemon < Formula
   desc "Runs scripts when the system changes between dark and light mode"
   version "0.0.1"
+  url "https://github.com/NiclasvanEyk/dark-mode-daemon/archive/refs/tags/0.0.1.tar.gz"
   homepage "https://github.com/NiclasvanEyk/homebrew-dark-mode-daemon"
   license "MIT"
 
